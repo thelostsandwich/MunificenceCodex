@@ -148,8 +148,8 @@ The idea of this document is to give reference and structure to the guild, yet w
  
 Change Log:
  
-5/21/2017: Created, Initialized 
-5/22/2017: Added Attendance, Discouraged Behavior, Writer's Opinion, Formatting, and Minor edits
-5/23/2017: Added Discord Rules
+-5/21/2017: Created, Initialized
+-5/22/2017: Added Attendance, Discouraged Behavior, Writer's Opinion, Formatting, and Minor edits
+-5/23/2017: Added Discord Rules
  
  
