@@ -41,6 +41,23 @@ having raider mats ready and available for every raid.
 DPS Team Leader(will open up as the guild grows): Responsible for improving DPS within the raid, mechanically and numerically. 
  
 Healer Team Leader(will open up as the guild grows):Responsible for improving effective healing within the raid, mechanically and numerically. 
+
+Raid Rules:
+In order to achieve raider rank, one must attend two consecutives raids whilst showing devotion and loyalty. At this point you can withdraw materials from the guild bank for raiding, and you will be held to the standards listen below.
+That being said, we will be progressing, because that is what is fun. Losing because of a few or one person is not fun.
+A raider is expected to be competent or working with the Raid Leader or another officer on their character. Be it tanking ability, DPS ability, or healing ability.
+
+Raiders will be required to be on Discord 30 minutes before raid time, at this point they can be afk getting ready, grabbing seals, having gems or flasks made, or whatever else is needed in order to be ready.
+
+The Raid Group will be formed 10 minutes before raid time, that means everyone is ready and prepared. No further breaks at this point.
+
+Loot rules follow a relaxed Loot Council style, taking in desire, frequency, upgrade potential, and tier sets all into account. This is a very flexible system that thrives with people who are more passive with their desire for gear. This system will not tolerate greedy people, and will strive to be equal for everyone. That said, there is a priority in loot; DPS are first for upgrades, Tanks are second, and Healers are last.
+
+If performance is an issue, the Raid Leader or an Officer will talk to you. Just expect it, and then deal with it. The current Raid Leader will not yell at you, simply go over stuff with you and help you with getting to the spot you want to be. 
+
+If performance continues to be an issue for 2 weeks straight with no increase in skill, then the Raider will be benched and moved to back-up raider, if you want to move back into a Raider spot, you will have to show satisfactory work.
+
+If performance continues to be an issue for 3 weeks straight with any increase in their skill, they will then be benched and moved to back-up Raider, with ability to be reinstated
  
  
 Raider: 
@@ -126,6 +143,8 @@ Meeting Weekly with officers to discuss guild direction and issues.
 Writer's Opinion:
 The idea of this document is to give reference and structure to the guild, yet will not always be followed to the letter. Officers will forget their duties, raiders will be late, the GM will make mistakes. We are all human. It seems like a lot, but I write it in mind that you as a trail, raider, officer, or even GM will put forth some effort to make this idea of a community happen. The constant is that everyone should contribute, no matter how small or large. The effort is what matters, and we have days upon days to try, fail, and try again to make it work, no matter what.
 -Sandwichy
+
+
  
 Change Log:
  
